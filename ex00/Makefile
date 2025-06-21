@@ -1,5 +1,5 @@
 EXECUTABLE := templateFunctions
-INCLUDES = Functions.hpp
+INCLUDES = whatever.hpp
 CPP = c++
 OBJ_DIR = obj
 SRCS = main.cpp 
